@@ -1,0 +1,16 @@
+Day,City,Temperature ,Windspeed,Event
+1/1/2019,A’bad,32,6,Sunny
+2/1/2019,A’bad,38,12,Cloudy
+3/1/2019,A’bad,40,10,Rain
+4/1/2019,A’bad,35,7,Sunny
+5/1/2019,A’bad,45,8,Cloudy
+6/1/2019,Hy’bad,44,5,Rain
+7/1/2019,Hy’bad,38,14,Sunny
+8/1/2019,Hy’bad,40,12,Cloudy
+9/1/2019,Hy’bad,35,8,Rain
+10/1/2019,Hy’bad,48,10,Sunny
+11/1/2019,Latur,35,9,Cloudy
+12/1/2019,Latur,32,8,Rain
+13/1/2019,Latur,38,7,Sunny
+14/1/2019,Latur,40,15,Cloudy
+15/1/2019,Latur,36,13,Rain
